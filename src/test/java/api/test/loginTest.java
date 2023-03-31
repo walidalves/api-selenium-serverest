@@ -4,7 +4,7 @@ import io.restassured.*;
 import org.hamcrest.CoreMatchers;
 import org.junit.Test;
 
-public class loginTest {
+public class loginTest  {
     static String API_PATH = "https://serverest.dev/login";
 }
 
