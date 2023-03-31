@@ -32,6 +32,14 @@
       <version>3.141.59</version>
       <scope>test</scope>
     </dependency>
+    
+    <!-- Dependência da ferramenta Rest Assured -->
+    <dependency>
+      <groupId>io.rest-assured</groupId>
+      <artifactId>rest-assured-all</artifactId>
+      <version>4.2.0</version>
+      <scope>test</scope>
+    </dependency>
 
 
   </dependencies>
